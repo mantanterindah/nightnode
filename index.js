@@ -83,4 +83,4 @@ process.on('unhandledRejection', error => {
 
 
 client.login(process.env.BOT_TOKEN)
-//client.login("MzU4OTE2ODMxMDUyMDM4MTQ0.DaDpzQ.7f236nLnbg3h8Fgx5NolXXd_mno")
+
